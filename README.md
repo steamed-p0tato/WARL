@@ -26,12 +26,6 @@ The interface is built with `rich` for a beautiful and user-friendly experience.
   * **🔧 Customizable**: Easily change the Ollama model by modifying a single variable in the script.
   * **✅ Robust Error Handling**: Clear feedback for command execution errors or issues connecting to Ollama.
 
-## 🎬 Demo
-
-
-**Command Mode Interaction:**
-
-**Chat Mode Interaction:**
 
 ## 🛠️ Prerequisites
 
