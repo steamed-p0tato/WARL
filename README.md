@@ -6,14 +6,6 @@
 
 **A powerful, interactive CLI assistant that leverages local LLMs via Ollama to generate and execute shell commands or just have a chat.**
 
-\</div\>
-
-\<p align="center"\>
-\<img src="[https://img.shields.io/badge/Python-3.8+-blue.svg](https://www.google.com/search?q=https://img.shields.io/badge/Python-3.8%2B-blue.svg)" alt="Python Version"\>
-\<img src="[https://img.shields.io/badge/License-MIT-green.svg](https://www.google.com/search?q=https://img.shields.io/badge/License-MIT-green.svg)" alt="License"\>
-\<img src="[https://img.shields.io/badge/platform-Linux%20%7C%20macOS%20%7C%20Windows-lightgrey](https://www.google.com/search?q=https://img.shields.io/badge/platform-Linux%2520%257C%2520macOS%2520%257C%2520Windows-lightgrey)" alt="Platform"\>
-\<img src="[https://img.shields.io/badge/built%20with-Ollama%20%26%20Rich-ff69b4](https://www.google.com/search?q=https://img.shields.io/badge/built%2520with-Ollama%2520%2526%2520Rich-ff69b4)" alt="Built with Ollama & Rich"\>
-\</p\>
 
 -----
 
