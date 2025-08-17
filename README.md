@@ -82,10 +82,10 @@ Before you begin, ensure you have the following installed:
 2.  **Execute the Python script:**
 
     ```sh
-    python3 lcai.py
+    python3 main.py
     ```
 
-    *(Assuming you've renamed the provided script to `lcai.py`)*
+    *(Assuming you've renamed the provided script to `main.py`)*
 
 ### In-App Commands
 
