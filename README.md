@@ -2,8 +2,6 @@
 
 # 🤖 WARL (like WARP but worse.. but local)
 
-\<div align="center"\>
-
 **A powerful, interactive CLI assistant that leverages local LLMs via Ollama to generate and execute shell commands or just have a chat.**
 
 
