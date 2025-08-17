@@ -9,9 +9,9 @@
 
 ## 🌟 Overview
 
-LCAI brings the power of large language models directly to your terminal, without sending your data to the cloud. It operates in two distinct modes:
+WARP brings the power of large language models directly to your terminal, without sending your data to the cloud. It operates in two distinct modes:
 
-  * **💻 Command Mode**: Describe what you want to do, and LCAI will suggest the perfect shell command. You can then approve and execute it directly.
+  * **💻 Command Mode**: Describe what you want to do, and WARP will suggest the perfect shell command. You can then approve and execute it directly.
   * **💬 Chat Mode**: A general-purpose, conversational AI assistant that remembers your conversation history and provides helpful answers, right in your terminal.
 
 The interface is built with `rich` for a beautiful and user-friendly experience.
