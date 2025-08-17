@@ -1,6 +1,6 @@
 
 
-# 🤖 Local Command AI (LCAI)
+# 🤖 WARL (like WARP but worse.. but local)
 
 \<div align="center"\>
 
